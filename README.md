@@ -1,4 +1,4 @@
-![logo](https://github.com/Sabur-Khan/profile.redme/blob/main/my%20banner.png)
+![logo](https://github.com/Sabur-Khan/Sabur-Khan/blob/main/my%20banner.png)
 <h1 align="center">Hi 👋, I'm Sabur Khan</h1>
 <h3 align="center">Welcome to my GitHub's World👋 <br>I'm a A passionate MERN Stack Developer. <br>I strive to create simple, original, and impactful User Experiences.🚀</h3>
 
